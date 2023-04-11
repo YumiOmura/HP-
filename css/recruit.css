@@ -1,0 +1,179 @@
+@charset "UTF-8";
+
+
+.header-wrapper{
+  height: 729px;
+}
+
+.recruit-wrapper__mes__item{
+  color: #fff;
+}
+
+.recruit-wrapper__mes__ttl{
+  color: #fff;
+}
+
+.recruit-wrapper__mes__ttl h2 small{
+  color: #fff;
+}
+
+.recruit-wrapper__mes{
+  background-color: #90D2F7;
+  padding: 3% 0;
+}
+
+.recruit-wrapper__mes__item{
+  width: 70%;
+  margin: 0 auto;
+}
+
+.recruit-wrapper__mes__ttl{
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.recruit-wrapper__mes p{
+  font-size: 18px;
+  line-height: 2.3rem;
+}
+
+.recruit-wrapper__human{
+  position: relative;
+  margin: 0 auto;
+}
+
+.recruit-wrapper__human__con{
+  display: flex;
+  align-items: center;
+  margin: 5% 0 16% 0;
+}
+
+.recruit-wrapper__human__img img{
+  width: 540px;
+  margin-left: 25%;
+}
+
+.recruit-wrapper__human__txt{
+  width: 60%;
+  height: 360px;
+  padding-top: 4%;
+  position: absolute;
+  right: 6%;
+  bottom: -65%;
+  z-index: -1;
+}
+
+.recruit-wrapper__human__txt__ttl{
+  position: absolute;
+  right: 40%;
+  top: -25%;
+  line-height: 1;
+}
+
+.recruit-wrapper__human__txt h2 small{
+  font-size: 1.5rem;
+  color:#0684F8 ;
+}
+
+.recruit-wrapper__human__txt h2{
+  font-size: 2.5rem;
+  color: #000;
+  text-align: center;
+}
+
+.recruit-wrapper__human__txt p{
+  line-height: 2.1rem;
+  padding: 5% 18%;
+  width: 60%;
+  background-color: #F0EDED;
+  color: #000;
+  font-size: 18px;
+}
+
+.recruit-wrapper__sche__con__nav{
+  width: 40%;
+  margin: 0 auto;
+}
+
+.recruit-wrapper__sche__con__ttl{
+  margin-bottom: 3%;
+  text-align: center;
+}
+
+.recruit-wrapper__sche__con{
+  background-color: #90D2F7;
+  padding: 3% 0;
+}
+.recruit-wrapper__sche__con__txt li{
+  margin-bottom: 3%;
+}
+
+
+.recruit-wrapper__sche__con__txt h6{
+  font-size: 1.3rem;
+}
+
+.recruit-wrapper__sche__con__txt p{
+  font-size: 1.1rem;
+}
+
+.recruit-wrapper__voice{
+  text-align: center;
+  margin: 3% 0;
+}
+
+.recruit-wrapper__voice__list{
+  display: flex;
+  justify-content: space-evenly;
+  margin: 5% 0;
+}
+
+.recruit-wrapper__voice__list img{
+  width: 465px;
+  height: 375px;
+}
+
+.recruit-wrapper__voice__list__item__txt{
+  background-color: rgba(83, 76, 76, 0.76);
+  width: 230px;
+  padding: 2% 0;
+}
+
+.recruit-wrapper__voice__list__item__txt p{
+  font-size: 20px;
+  color: #fff;
+}
+
+.__v-item1{
+  position: relative;
+  z-index: -1;
+}
+
+.__v-txt1 {
+  position: absolute;
+  left: 0;
+  bottom: 2.2%;
+}
+
+.__v-item2{
+  position: relative;
+  z-index: -1;
+}
+
+.__v-txt2 {
+  position: absolute;
+  left: 0;
+  bottom: 2.2%;
+}
+
+.__v-item3{
+  position: relative;
+  z-index: -1;
+}
+
+.__v-txt3 {
+  position: absolute;
+  left: 0;
+  bottom: 2.2%;
+}
+

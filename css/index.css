@@ -1,0 +1,159 @@
+@charset "UTF-8";
+.top-wrapper__bottom img{
+  width:100%;
+  height: 600px;
+  position: relative;
+}
+
+.top__ttl{
+  width: 35%;
+  background-color: rgba(255, 255, 255, 0.6);
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.top__ttl h1{
+  font-size: 40px;
+  text-align: center;
+  padding: 5% 0;
+}
+
+/* newsのスタイル */
+.news {
+  text-align: center;
+  display: block;
+  margin: unset;
+  padding: 3% 0;
+}
+
+.news-list {
+  text-align: left;
+  display: inline-block;
+  margin: 2.5% 0;
+}
+
+.news-list__item {
+  font-size: 1.1rem;
+  line-height: 3;
+  color: #333;
+}
+
+.news-list__item span{
+  border: 1px solid #000;
+}
+
+/* serviceのスタイル */
+.service-wrapper{
+  display: flex;
+  align-items: center;
+}
+
+.service-wrapper__left{
+  width: 35%;
+  margin-left: 8.5%;
+}
+
+.service-wrapper__left img{
+  width: 100%;
+  height: 430px;
+}
+
+.service-wrapper__right{
+  width: 640px;
+  margin: 0 auto;
+}
+
+.service-wrapper__right p{
+  margin: 8% 0;
+  font-size: 20px;
+  line-height: 2.5rem;
+}
+
+.service-wrapper__left__btn {
+  width: 224px;
+}
+
+/* worksのスタイル */
+.works{
+  text-align: center;
+  margin: 5% 0;
+}
+
+.works-wrapper__list{
+  display: flex;
+  justify-content: space-evenly;
+  margin: 5% 0;
+  
+}
+
+.works-wrapper__list__item img{
+  width: 565px;
+  height: 375px;
+}
+
+.works-wrapper__list__item__txt{
+  background-color: #fff;
+  width: 230px;
+  padding: 2% 0;
+}
+.works-wrapper__list__item__txt p{
+  font-size: 20px;
+}
+
+.__w-item1{
+  position: relative;
+  z-index: -1;
+}
+
+.__w-txt1 {
+  position: absolute;
+  right: 0;
+  bottom: 9px;
+}
+
+.__w-item2{
+  position: relative;
+}
+
+.__w-txt2 {
+  position: absolute;
+  right: 0;
+  bottom: 9px;
+}
+
+/* recruit */
+.recruit{
+  margin: 5% 0;
+}
+
+.recruit-wrapper{
+  display: flex;
+  align-items: center;
+}
+
+.recruit-wrapper__right{
+  width: 35%;
+  margin-right: 8%;
+}
+
+.recruit-wrapper__right img{
+  width: 100%;
+  height: 430px;
+}
+
+.recruit-wrapper__left{
+  width: 640px;
+  margin: 0 auto;
+}
+
+.recruit-wrapper__left p{
+  margin: 8.5% 0;
+  font-size: 20px;
+  line-height: 2.5rem;
+}
+
+.recruit-wrapper__left__btn {
+  width: 224px;
+}

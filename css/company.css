@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+.company{
+  width: 100%;
+  margin: 5% 0;
+}
+
+.company-wrapper{
+  width: 40%;
+  margin: 0 auto;
+}
+
+.company-wrapper__item{
+  display: flex;
+  justify-content: space-around;
+  border-bottom:solid 1px #000 ;
+  align-items: center;
+  padding: 20px 0;
+}
+
+.company-wrapper__item h5{
+  width: 150px;
+  font-size: 1.6rem;
+  padding-left: 50px;
+}
+
+.company-wrapper__item p{
+  width: 500px;
+  font-size: 1.3rem;
+  padding-left: 30px;
+}
