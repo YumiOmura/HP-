@@ -18,6 +18,7 @@
 .con-wrap__con__ttl{
   font-size: 1.8rem;
   border-left: 4px solid #0684F8;
+  padding-left: 15px;
 }
 
 .con-wrap__con__txt{
