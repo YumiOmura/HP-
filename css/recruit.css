@@ -2,7 +2,7 @@
 
 
 .header-wrapper{
-  height: 729px;
+  height: 846px;
 }
 
 .recruit-wrapper__mes__item{
@@ -50,6 +50,7 @@
 
 .recruit-wrapper__human__img img{
   width: 450px;
+  aspect-ratio: 3/2;
   margin-left: 20%;
 }
 
@@ -130,7 +131,7 @@
 
 .recruit-wrapper__voice__list img{
   width: 365px;
-  height: 275px;
+  aspect-ratio: 3/2;
 }
 
 .recruit-wrapper__voice__list__item__txt{
