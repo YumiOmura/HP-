@@ -8,7 +8,7 @@
 
 .header-wrapper__bottom img {
   width: 100%;
-  aspect-ratio: 3/2;
+  aspect-ratio: 7/3;
 }
 
 .header__ttl {
@@ -16,7 +16,7 @@
   top: 0;
   left: -18%;
   background: #fff;
-  padding: 2% 6% 4% 6%;
+  padding: 0 6% 4% 6%;
   line-height: 1.2;
 }
 
