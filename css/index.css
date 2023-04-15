@@ -5,13 +5,13 @@
   position: relative;
 }
 
-.top__ttl{
+.top__ttl {
   width: 45%;
   background-color: rgba(255, 255, 255, 0.6);
   position: absolute;
-  top: 63%;
+  top: 40%;
   left: 50%;
-  transform: translateX(-50%);  
+  transform: translate(-50%,50%);  
 }
 
 .top__ttl h1{
@@ -41,7 +41,6 @@
 }
 
 .news-list__item span{
-  border: 1px solid #000;
   padding: 4px;
   background-color: rgba(152, 198, 223, 0.5);
 }
